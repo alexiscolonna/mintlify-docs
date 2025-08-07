@@ -15,6 +15,30 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "anchors": [
+    {
+      "anchor": "Documentation",
+      "icon": "book-open",
+      "pages": [
+        "quickstart",
+        "development",
+        "navigation"
+      ]
+    },
+    {
+      "anchor": "API References",
+      "icon": "square-terminal",
+      "pages": [
+        "api-reference/get",
+        "api-reference/post",
+        "api-reference/delete"
+      ]
+    },
+    {
+      "anchor": "Blog",
+      "href": "https://external-link.com/blog"
+    }
+  ],
     "tabs": [
       {
         "tab": "Guides",
@@ -77,19 +101,22 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Wesite",
+          "href": "symbioticsec.ai",
+          "icon": "globe"
         },
         {
-          "anchor": "Community",
+          "anchor": "Portal",
+          "href": "https://app.symbioticsec.ai",
+          "icon": "square-mouse-pointer"
+        },
+        {
+          "anchor": "Download our extension",
           "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "icon": "cloud-download"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          
         }
       ]
     }
