@@ -4,8 +4,8 @@
   "name": "Symsec",
   "colors": {
     "primary": "#C45D97",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#C45D97",
+    "dark": "#C45D97"
   },
   "favicon": "/favicon.svg",
   "navigation": {
