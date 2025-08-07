@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "aspend",
   "name": "Symsec",
   "colors": {
     "primary": "#C45D97",
